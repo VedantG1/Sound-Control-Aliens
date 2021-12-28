@@ -1,0 +1,36 @@
+img{
+    height: 270px;
+    width: 270px;
+}
+#footer{
+    width: 100%;
+    bottom: 10;
+    position: fixed;
+    text-align: center;
+    font-size: 25px;
+    color: black;
+    font-family: 'Pushster', cursive;
+    background-color: #f7bb97;
+}
+#main{
+    background: linear-gradient(#dd5e89, #f7bb97);
+    width: 100%;
+}
+h1{
+    font-size: 50px;
+    font-family: 'Shizuru', cursive;
+    color: yellow;
+}
+#startBtn{
+    font-size: 20px;
+    width: 70px;
+}
+#header{
+    background-color: #dd5e89;
+}
+body{
+    background-color: #f7bb97;
+}
+#note{
+    font-size: 15px;
+}
